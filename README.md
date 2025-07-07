@@ -31,7 +31,7 @@ Lately, I’ve been diving into **LLMs and agentic AI**, building autonomous bac
   System design, NestJS, AWS, DevOps, or how to write technical content that doesn’t suck 😄
 
 - 📫 How to reach me:  
-  [LinkedIn](https://linkedin.com/in/dev-ahmadbilal) | [Medium](https://medium.com/@ahmadbilalch891) | [ahmad-bilal.vercel.app](https://ahmad-bilal.vercel.app)
+  [LinkedIn](https://linkedin.com/in/dev-ahmad-bilal) | [Medium](https://medium.com/@ahmadbilalch891) | [ahmad-bilal.vercel.app](https://ahmad-bilal.vercel.app)
 
 - 😄 Pronouns:  
   he/him

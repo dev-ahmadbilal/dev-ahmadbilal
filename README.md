@@ -40,6 +40,7 @@ Lately, I’ve been diving into **LLMs and agentic AI**, building autonomous bac
 
 ### 🧪 Open Source Projects & Tools
 
+- 🧰 [`Highdash`](https://www.npmjs.com/package/highdash) — A modern, type-safe alternative to Lodash.
 - 🧱 [`Hexogen`](https://www.npmjs.com/package/hexogen) — Scaffold modular NestJS APIs with hexagonal architecture  
 - 🕌 [`islam.js`](https://www.npmjs.com/package/islam.js) — Islamic JS library with Quran, Hadith, Azkar, and Prayer Times  
 - 🔤 [`string-master`](https://www.npmjs.com/package/string-master) — Advanced TypeScript string utilities  
